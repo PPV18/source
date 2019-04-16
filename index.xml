@@ -1,0 +1,38 @@
+<source>
+	<folder>
+		<id>root</id>
+		<element>
+			<tipo>D</tipo>
+			<title>Addons Infantiles</title>
+		</element>
+		<element>
+			<tipo>D</tipo>
+			<title>Addons Deportivos</title>
+		</element>
+		<element>
+			<tipo>D</tipo>
+			<title>Addons turulu</title>
+		</element>
+		<element>
+			<tipo>D</tipo>
+			<title>Addons tralala</title>
+		</element>
+	</folder>
+	<folder>
+		<id>Addons Infantiles</id>
+		<element>
+			<tipo>Z</tipo>
+			<title>Pequelandia</title>
+			<url>plugin.video.pequelandia.zip</url>
+		</element>
+		<element>
+			<tipo>Z</tipo>
+			<title>La neurona y sus locuras</title>
+			<url>piru.piru.piru.zip</url>
+		</element>
+		<element>
+			<tipo>D</tipo>
+			<title>Addons tralala</title>
+		</element>
+	</folder>
+</source>
