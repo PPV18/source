@@ -43,4 +43,19 @@
 			<title>Addons tralala</title>
 		</element>
 	</folder>
+	<folder>
+		<id>Addons tralala</id>
+		<element>
+			<tipo>Z</tipo>
+			<id>plugin.video.tirilandia</id>
+			<title>tirilandia</title>
+			<url>plugin.video.tirilandia.zip</url>
+		</element>
+		<element>
+			<tipo>Z</tipo>
+			<id>pirulo</id>
+			<title>Piruli</title>
+			<url>piruli.piruli.piruli.zip</url>
+		</element>
+	</folder>
 </source>
