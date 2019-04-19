@@ -9,18 +9,8 @@
 		</element>
 		<element>
 			<tipo>D</tipo>
-			<id>Addons Deportivos</id>
-			<title>Addons Deportivos</title>
-		</element>
-		<element>
-			<tipo>D</tipo>
-			<id>Addons turulu</id>
-			<title>Addons turulu</title>
-		</element>
-		<element>
-			<tipo>D</tipo>
-			<id>Addons tralala</id>
-			<title>Addons tralala</title>
+			<id>Addons Culturales y Curiosos</id>
+			<title>Addons Addons Culturales y Curiosos</title>
 		</element>
 	</folder>
 	<folder>
@@ -37,25 +27,48 @@
 			<title>La neurona y sus locuras</title>
 			<url>piru.piru.piru.zip</url>
 		</element>
+	</folder>
+	<folder>
+		<id>Addons Culturales y Curiosos</id>
 		<element>
 			<tipo>D</tipo>
-			<id>Addons tralala</id>
-			<title>Addons tralala</title>
+			<id>OVNI</id>
+			<title>Documentales de OVNIS</title>
+		</element>
+		<element>
+			<tipo>D</tipo>
+			<id>MUNDO OSCURO</id>
+			<title>Documentales de COSAS OSCURAS</title>
 		</element>
 	</folder>
 	<folder>
-		<id>Addons tralala</id>
+		<id>OVNI</id>
 		<element>
 			<tipo>Z</tipo>
-			<id>plugin.video.tirilandia</id>
-			<title>tirilandia</title>
-			<url>plugin.video.tirilandia.zip</url>
+			<id>Plugin OVNI</id>
+			<title>Plugin OVNI<</title>
+			<url>plugin.video.ovni-2.0.zip</url>
 		</element>
 		<element>
 			<tipo>Z</tipo>
-			<id>pirulo</id>
-			<title>Piruli</title>
-			<url>piruli.piruli.piruli.zip</url>
+			<id>Repositorio DecoSub</id>
+			<title>Repositorio DecoSub<</title>
+			<url>repository.decosub-0.0.1-1.zip</url>
+		</element>
+	</folder>
+	<folder>
+		<id>MUNDO OSCURO</id>
+		<element>
+			<tipo>Z</tipo>
+			<id>Plugin MUNDO OSCURO</id>
+			<title>Plugin MUNDO OSCURO<</title>
+			<url>plugin.video.MundoOscuro-0.0.1.zip</url>
+		</element>
+		<element>
+			<tipo>Z</tipo>
+			<id>Repositorio DecoSub</id>
+			<title>Repositorio DecoSub<</title>
+			<url>repository.decosub-0.0.1-1.zip</url>
 		</element>
 	</folder>
 </source>
