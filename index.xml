@@ -48,7 +48,7 @@
 			<id>Plugin OVNI</id>
 			<title>Plugin OVNI</title>
 			<url>plugin.video.ovni-2.0.zip</url>
-			<dependency><url>repository.decosub-0.0.1-1.zip<url></dependency>
+			<dependency>repository.decosub-0.0.1-1.zip</dependency>
 		</element>
 		<element>
 			<tipo>Z</tipo>
