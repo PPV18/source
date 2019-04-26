@@ -46,13 +46,14 @@
 		<element>
 			<tipo>Z</tipo>
 			<id>Plugin OVNI</id>
-			<title>Plugin OVNI<</title>
+			<title>Plugin OVNI</title>
 			<url>plugin.video.ovni-2.0.zip</url>
+			<dependency>repository.decosub-0.0.1-1.zip</dependency>
 		</element>
 		<element>
 			<tipo>Z</tipo>
 			<id>Repositorio DecoSub</id>
-			<title>Repositorio DecoSub<</title>
+			<title>Repositorio DecoSub</title>
 			<url>repository.decosub-0.0.1-1.zip</url>
 		</element>
 	</folder>
@@ -61,14 +62,9 @@
 		<element>
 			<tipo>Z</tipo>
 			<id>Plugin MUNDO OSCURO</id>
-			<title>Plugin MUNDO OSCURO<</title>
+			<title>Plugin MUNDO OSCURO</title>
 			<url>plugin.video.MundoOscuro-0.0.1.zip</url>
-		</element>
-		<element>
-			<tipo>Z</tipo>
-			<id>Repositorio DecoSub</id>
-			<title>Repositorio DecoSub<</title>
-			<url>repository.decosub-0.0.1-1.zip</url>
+			<dependency>repository.decosub-0.0.1-1.zip</dependency>
 		</element>
 	</folder>
 </source>
