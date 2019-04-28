@@ -14,6 +14,11 @@
 		</element>
 		<element>
 			<tipo>D</tipo>
+			<id>Addons Pelis</id>
+			<title>Addons Pelis</title>
+		</element>
+		<element>
+			<tipo>D</tipo>
 			<id>Eliminados</id>
 			<title>Addons Eliminados de la Fuente</title>
 		</element>
@@ -44,6 +49,16 @@
 			<tipo>D</tipo>
 			<id>MUNDO OSCURO</id>
 			<title>Documentales de COSAS OSCURAS</title>
+		</element>
+	</folder>
+	<folder>
+		<id>Addons Pelis</id>
+		<element>
+			<tipo>Z</tipo>
+			<id>Plugin Alfa</id>
+			<title>Plugin Alfa</title>
+			<url>plugin.video.alfa-2.8.3.zip</url>
+			<dependency>repository.alfa-addon-1.0.4.zip</dependency>
 		</element>
 	</folder>
 	<folder>
