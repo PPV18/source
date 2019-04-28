@@ -10,7 +10,12 @@
 		<element>
 			<tipo>D</tipo>
 			<id>Addons Culturales y Curiosos</id>
-			<title>Addons Addons Culturales y Curiosos</title>
+			<title>Addons Culturales y Curiosos</title>
+		</element>
+		<element>
+			<tipo>D</tipo>
+			<id>Eliminados</id>
+			<title>Addons Eliminados de la Fuente</title>
 		</element>
 	</folder>
 	<folder>
@@ -65,6 +70,15 @@
 			<title>Plugin MUNDO OSCURO</title>
 			<url>plugin.video.MundoOscuro-0.0.1.zip</url>
 			<dependency>repository.decosub-0.0.1-1.zip</dependency>
+		</element>
+	</folder>
+	<folder>
+		<id>Eliminados</id>
+		<element>
+			<tipo>Z</tipo>
+			<id>Plugin OVNI</id>
+			<title>Plugin OVNI</title>
+			<url>plugin.video.ovni-2.0.zip</url>
 		</element>
 	</folder>
 </source>
