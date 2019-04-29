@@ -93,6 +93,27 @@
 			<url>plugin.video.nuevo.zip</url>
 			<dependency>plugin.nuevo.zip</dependency>
 		</element>
+		<element>
+			<tipo>Z</tipo>
+			<id>Plugin NUEVO PPV2</id>
+			<title>Plugin NUEVO PPV2</title>
+			<url>plugin.video.nuevo.zip</url>
+			<dependency>plugin.nuevo.zip</dependency>
+		</element>
+		<element>
+			<tipo>Z</tipo>
+			<id>Plugin NUEVO PPV3</id>
+			<title>Plugin NUEVO PPV3</title>
+			<url>plugin.video.nuevo.zip</url>
+			<dependency>plugin.nuevo.zip</dependency>
+		</element>
+		<element>
+			<tipo>Z</tipo>
+			<id>Plugin NUEVO PPV4</id>
+			<title>Plugin NUEVO PPV4</title>
+			<url>plugin.video.nuevo.zip</url>
+			<dependency>plugin.nuevo.zip</dependency>
+		</element>
 	</folder>
 	<folder>
 		<id>Eliminados</id>
